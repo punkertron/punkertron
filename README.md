@@ -1,5 +1,5 @@
-### Hi there 👋
 
+### Hi there 👋
 
 ---
 
@@ -16,31 +16,19 @@
   <img src="images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+### :man_technologist: About Me :
+I’m currently learning C++ and Python.
+Previously I had professional experience in working with databases (mainly Oracle PL/SQL, but also PostgreSQL), writing internal corporate services in Python and creating Tableau dashboards.
 
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=punkertron&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punkertron&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-<!--
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=punkertron&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
--->
-
-
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punkertron&theme=nord_bright)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=punkertron&theme=nord_bright)
--->
 
 <!--
 **punkertron/punkertron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
