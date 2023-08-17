@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="images/images/cplusplus-original.svg" title="Java" alt="C++" width="40" height="40"/>&nbsp;
+</div>
+
+
+
+
+
+
+
+
+
+
+<!--
 <table>
   <tr>
     <td>
@@ -7,10 +25,14 @@
     </td>
   </tr>
 </table>
+-->
 
+
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punkertron&theme=nord_bright)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=punkertron&theme=nord_bright)
+-->
 
 <!--
 **punkertron/punkertron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
