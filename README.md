@@ -2,6 +2,11 @@
 ### Hi there 👋
 
 ---
+### :man_technologist: About Me :
+I’m currently learning C++ and Python.
+Previously I had professional experience in working with databases (mainly Oracle PL/SQL, but also PostgreSQL), writing internal corporate services in Python and creating Tableau dashboards.
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -18,17 +23,11 @@
 
 ---
 
-### :man_technologist: About Me :
-I’m currently learning C++ and Python.
-Previously I had professional experience in working with databases (mainly Oracle PL/SQL, but also PostgreSQL), writing internal corporate services in Python and creating Tableau dashboards.
-
----
-
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punkertron&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=punkertron&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punkertron&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 
 <!--
 **punkertron/punkertron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
