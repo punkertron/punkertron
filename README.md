@@ -2,13 +2,13 @@
 ### Hi there 👋
 
 ---
-### :man_technologist: About Me
+### :man_technologist: About Me :
 I’m currently learning C++ and Python.
 Previously I had professional experience in working with databases (mainly Oracle PL/SQL, but also PostgreSQL), writing internal corporate services in Python and creating Tableau dashboards.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="images/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="images/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
