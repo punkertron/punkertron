@@ -5,7 +5,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="images/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="images/cplusplus-original_.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
   <img src="images/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="images/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   <img src="images/linux-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
